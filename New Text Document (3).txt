@@ -1,0 +1,8 @@
+setting for blue marker
+
+l-h = 99
+l-s = 106
+l-v = 0
+u-h = 179
+u-s = 255
+u-v = 255
